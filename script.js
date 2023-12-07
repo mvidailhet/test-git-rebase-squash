@@ -1,8 +1,5 @@
 
-console.log('youpi');
+console.log('master');
 
-console.log('youpi');
-console.log('tralala');
-
-console.log('tralala');
+console.log('master');
 
